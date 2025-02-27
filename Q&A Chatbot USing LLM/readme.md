@@ -30,16 +30,19 @@ The chatbot uses a pre-trained LLM to interpret and respond to user queries. It 
    cd Complete-Langchain-Tutorials/Q&A Chatbot Using LLM
    ```
 
-2. **Install Dependencies**:
+2. **Install**:
 
-   ```bash
-   pip install -r requirements.txt
-   ```
+   pip install streamlit
+   pip install langchain
+   pip install langchain_community
+   pip install cohere-to get api
 
 3. **Run the Chatbot**:
 
    ```bash
-   python chatbot.py
+   dir
+   cd to the correct path
+   streamlit run app.py
    ```
 
 4. **Interact with the Chatbot**:
@@ -55,4 +58,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any questions or feedback, please contact [your email].
+For any questions or feedback, please contact jonnaagnes19@gmail.com.
